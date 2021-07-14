@@ -6,4 +6,4 @@
 <p> My theory is interpreting perspective reality and coming up with a rough estimate of how many people are in each perspective reality with a simple math equation.  Now do note, there is no guarantee that in my perspective - for example - you reading this are even alive, unless you communicate to me, I will never know.  Here's an explanation of what I just said: My cousin died in 2016 in my reality, but in his reality, he survived the gunshot, or maybe didn't even get shot in the first place, so there is a chance that in his reality I am showing him this theory. </p>
 </div>
 
-**This is an example of [Quantum Superposition] (https://en.wikipedia.org/wiki/Quantum_superposition) and Quantum Immortality interacting with each other.**
+**This is an example of [Quantum Superposition] (https://en.wikipedia.org/wiki/Quantum_superposition), and Quantum Immortality interacting with each other.**
