@@ -1,8 +1,11 @@
-// the current human population (will be realistic later)
-var a = 2;
+// the current human population (as of 10:10AM PST, 7/14/2021)
+var a = 7,874,965,825;
 
 // the exponent; must be equal to a
 const b = a;
 
 // the equation (c = a^b)
 const c = Math.pow(a, b);
+
+// prints c in console
+console.log(c);
